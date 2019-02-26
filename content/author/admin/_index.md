@@ -35,12 +35,12 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "MS in Computer Science"
+  course = "MS, Computer Science"
   institution = "Arizona State University"
   year = 2019
 
 [[education.courses]]
-  course = "BTech in Computer Science & Engineering"
+  course = "BTech, Computer Science"
   institution = "Gurukula Kangri University"
   year = 2012
 
