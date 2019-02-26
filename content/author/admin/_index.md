@@ -3,7 +3,7 @@
 name = "Kuldeep Singh Rathor"
 
 # Username (this should match the folder name)
-authors = ["Kuldeep"]
+authors = ["admin"]
 
 # Is this the primary user of the site?
 superuser = true
@@ -74,11 +74,11 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
    icon = "cv"
    icon_pack = "ai"
-   link = "static/files/CV.pdf"
+   link = "/files/CV.pdf"
 
 +++
 
-- Kuldeep is a Graduate Research Associate at Data Science Lab in ASU. He's contributing towards the organizational network construction from Nuclear Power Plants' Operational Records.
+- Graduate Research Associate at Data Science Lab @ ASU. Contributing towards the organizational network construction from Nuclear Power Plants' Operational Records.
 - Charged up about Full Stack Development, Machine Learning and Natural Language Processing with 4+ years of live industry experience of development in Java, Spring, Databases and modern Web Technologies as a Software Engineer.
 
 Previously worked with IBM and Cognizant Technology Solutions (Please see experience section for more details) 
